@@ -14,7 +14,7 @@ In the script for this assignment there are 6 sections of code which inclues imp
 This portion of the script is used to provide information about the purpose of this script to anyone who needs to review or edit the script in the future.  The main components that should be included are title, description, author, and change log.  
 As you can see in Figure 1 below, the application was created by RRoot, but I made several updates and changes to this application.   Each of those adjustments were documented in the change log portion of this header. 
 
- ![Figure_1](https://github.com/dgrunloh-uw/IntroToProg-Python-Mod07/blob/main/docs/Figure_1.png  "[Figure_1]") 
+ ![Figure_1](Figure_1.png  "[Figure_1]") 
  
 ___Figure 1___
 
