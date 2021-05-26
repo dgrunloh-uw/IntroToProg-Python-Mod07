@@ -21,7 +21,7 @@ ___Figure 1___
 ### Import Modules
 In this section of code, I import the pickle module as well as the sys module.  These modules are imported to utilize code that is included in another application.  These particular modules are standard prebuilt modules that are included in the software.   You can see below in figure 2 that importing the modules is a pretty simple command. 
  
- ![Figure_2](https://github.com/dgrunloh-uw/IntroToProg-Python-Mod07/blob/main/docs/Figure_2.png "[Figure_2]")
+ ![Figure_2](Figure_2.png "[Figure_2]")
   
 ___Figure 2___
 ### Define Variables
