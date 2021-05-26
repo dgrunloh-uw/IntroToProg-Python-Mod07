@@ -24,6 +24,7 @@ In this section of code, I import the pickle module as well as the sys module.  
  ![Figure_2](Figure_2.png "[Figure_2]")
   
 ___Figure 2___
+
 ### Define Variables
 In this section of code, I define some variables that will be used throughout the application.   It is a good practice to define these at the beginning as shown in figure 3 for ease of use. 
 
@@ -57,6 +58,7 @@ In figure 6 below, you can see that we are able to store a list object, list_of_
  ![Figure_6](Figure_6.png "[Figure_6]")
  
 ___Figure 6___
+
 In the image below in figure 7, you can see that when the data is saved to the file, it is not stored in plain text.   When the data is stored, it is obscured and the storing it in the binary format can also reduce the file size.   You can also notice that the data is not fully masked and is just obscured, so this shouldn’t be used to mask data.  
 
 ![Figure_7](Figure_7.png "[Figure_7]")
