@@ -13,8 +13,11 @@ In the script for this assignment there are 6 sections of code which inclues imp
 ### Header
 This portion of the script is used to provide information about the purpose of this script to anyone who needs to review or edit the script in the future.  The main components that should be included are title, description, author, and change log.  
 As you can see in Figure 1 below, the application was created by RRoot, but I made several updates and changes to this application.   Each of those adjustments were documented in the change log portion of this header. 
+
+ ![Figure_1](https://user-images.githubusercontent.com/84046789/119592317-dbcb9700-bd9d-11eb-983e-953691f4e821.png)![Figure_1]
  
 ___Figure 1___
+
 ### Import Modules
 In this section of code, I import the pickle module as well as the sys module.  These modules are imported to utilize code that is included in another application.  These particular modules are standard prebuilt modules that are included in the software.   You can see below in figure 2 that importing the modules is a pretty simple command. 
  
